@@ -1,0 +1,15 @@
+D:\HW C#5\CODE21\bin\Debug\net6.0\CODE21.exe
+D:\HW C#5\CODE21\bin\Debug\net6.0\CODE21.deps.json
+D:\HW C#5\CODE21\bin\Debug\net6.0\CODE21.runtimeconfig.json
+D:\HW C#5\CODE21\bin\Debug\net6.0\CODE21.dll
+D:\HW C#5\CODE21\bin\Debug\net6.0\CODE21.pdb
+D:\HW C#5\CODE21\obj\Debug\net6.0\CODE21.csproj.AssemblyReference.cache
+D:\HW C#5\CODE21\obj\Debug\net6.0\CODE21.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW C#5\CODE21\obj\Debug\net6.0\CODE21.AssemblyInfoInputs.cache
+D:\HW C#5\CODE21\obj\Debug\net6.0\CODE21.AssemblyInfo.cs
+D:\HW C#5\CODE21\obj\Debug\net6.0\CODE21.csproj.CoreCompileInputs.cache
+D:\HW C#5\CODE21\obj\Debug\net6.0\CODE21.dll
+D:\HW C#5\CODE21\obj\Debug\net6.0\refint\CODE21.dll
+D:\HW C#5\CODE21\obj\Debug\net6.0\CODE21.pdb
+D:\HW C#5\CODE21\obj\Debug\net6.0\CODE21.genruntimeconfig.cache
+D:\HW C#5\CODE21\obj\Debug\net6.0\ref\CODE21.dll
