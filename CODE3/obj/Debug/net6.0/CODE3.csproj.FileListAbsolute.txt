@@ -1,0 +1,15 @@
+D:\HW C#5\CODE3\bin\Debug\net6.0\CODE3.exe
+D:\HW C#5\CODE3\bin\Debug\net6.0\CODE3.deps.json
+D:\HW C#5\CODE3\bin\Debug\net6.0\CODE3.runtimeconfig.json
+D:\HW C#5\CODE3\bin\Debug\net6.0\CODE3.dll
+D:\HW C#5\CODE3\bin\Debug\net6.0\CODE3.pdb
+D:\HW C#5\CODE3\obj\Debug\net6.0\CODE3.csproj.AssemblyReference.cache
+D:\HW C#5\CODE3\obj\Debug\net6.0\CODE3.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW C#5\CODE3\obj\Debug\net6.0\CODE3.AssemblyInfoInputs.cache
+D:\HW C#5\CODE3\obj\Debug\net6.0\CODE3.AssemblyInfo.cs
+D:\HW C#5\CODE3\obj\Debug\net6.0\CODE3.csproj.CoreCompileInputs.cache
+D:\HW C#5\CODE3\obj\Debug\net6.0\CODE3.dll
+D:\HW C#5\CODE3\obj\Debug\net6.0\refint\CODE3.dll
+D:\HW C#5\CODE3\obj\Debug\net6.0\CODE3.pdb
+D:\HW C#5\CODE3\obj\Debug\net6.0\CODE3.genruntimeconfig.cache
+D:\HW C#5\CODE3\obj\Debug\net6.0\ref\CODE3.dll
